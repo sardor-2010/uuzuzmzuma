@@ -1,11 +1,10 @@
 import React from 'react';
-import Sardor from './components/Sardor';
+import Bardor from './components/Bardor2';
 const App = () => {
   return (
     <div>
-      <Sardor />
-      
-
+      <Bardor />
+          
 
           
       </div>
