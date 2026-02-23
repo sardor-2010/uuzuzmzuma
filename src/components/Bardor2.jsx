@@ -548,4 +548,5 @@ const Bardor2 = () => {
   );
 };
 
+
 export default Bardor2;
