@@ -1,9 +1,16 @@
-import React from 'react'
-
+import React from 'react';
+import Sardor from './components/Sardor';
 const App = () => {
   return (
-    <div>App</div>
-  )
-}
+    <div>
+      <Sardor />
+      
 
-export default App
+
+          
+      </div>
+   
+  );
+};
+
+export default App;
