@@ -482,6 +482,7 @@ Uzum tezkor        </h3>
         <li><a href="#" className="hover:text-white">Положение по обработке персональных данных</a></li>
       </ul>
     </div>
+    
 
     <div>
       <h3 className="text-white font-bold mb-4">Соцсети Uzum Sellers</h3>
